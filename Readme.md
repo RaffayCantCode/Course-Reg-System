@@ -1,0 +1,1 @@
+Course Registration System is a web-based platform built with MySQL, HTML, and CSS. Students can register, view, and rate courses in real time, while admins can create, update, or delete courses instantly. It delivers a simple interface with a reliable database backend, making course management smooth for both students and administrators.
